@@ -1,0 +1,6 @@
+[client]
+database = hicquery_dev
+host = localhost
+user = root
+password = test123
+default-character-set = utf8
